@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Metasite_v2": {
+      "commandName": "Project",
+      "commandLineArgs": "weather --city Talin, Riga"
+    }
+  }
+}
